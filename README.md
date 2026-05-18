@@ -7,7 +7,8 @@ The report allows users to explore restaurant statistics worldwide, analyze cust
 and compare costs across countries and cities.
 The dashboard supports drill-down analysis, advanced filtering, and interactive visualizations for better decision-making.
 
- 🎯 Purpose of the Project
+
+ # 🎯 Purpose of the Project
 The purpose of this dashboard is to:
 
 Analyze restaurant data globally
@@ -17,7 +18,8 @@ Understand customer preferences and service trends
 Provide interactive business insights using Power BI
 Enable easy data exploration through filters and navigation
 
- 🛠️ Tech Stack Used
+
+ # 🛠️ Tech Stack Used
 Technology	Purpose
 📊 Power BI - Data visualization and dashboard development
 📑 Microsoft Excel -	Data source and preprocessing
@@ -25,7 +27,8 @@ Technology	Purpose
 🧮 DAX (Data Analysis Expressions) -	Measures, calculated columns, KPIs
 🔗 Data Modeling - Building relationships between tables
 
- 📂 Data Source
+
+ # 📂 Data Source
 The dataset was collected from multiple Excel files containing restaurant information from different continents and countries.
 
 Dataset Includes:
@@ -41,7 +44,8 @@ Online Delivery Availability
 Table Booking Availability
 Votes and Customer Reviews
 
-📈 Dashboard Features
+
+# 📈 Dashboard Features
  Interactive Filters
 Users can filter restaurants based on:
 Country
@@ -60,7 +64,8 @@ Analyze restaurant distribution geographically
 Designed with Zomato-themed UI
 Interactive navigation between pages
 
-📌 Key Visualizations Used
+
+# 📌 Key Visualizations Used
 Visualization |	Purpose
 KPI Cards -	Restaurant count, average rating, average cost
 Map Visualization -	Global restaurant distribution
@@ -70,7 +75,8 @@ Treemap	- Rating color distribution
 Slicers - Dynamic filtering
 Tables - Restaurant details and addresses
 
-💼 Business Problems Solved
+
+# 💼 Business Problems Solved
 
 This dashboard helps solve several business challenges:
 
@@ -92,7 +98,8 @@ Table booking services
 🔹 Market Expansion Insights
 Identify regions with high restaurant concentration and customer engagement.
 
-🎯 Goal of the Dashboard
+
+# 🎯 Goal of the Dashboard
 
 The dashboard was developed to help Zomato:
 
@@ -103,14 +110,16 @@ Analyze restaurant service trends
 Enhance operational efficiency
 Support strategic expansion planning
 
-📌 Key Insights Generated
+
+# 📌 Key Insights Generated
 Restaurants offering online delivery tend to attract higher customer engagement.
 Certain cuisines are significantly more popular across multiple countries.
 Some cities have higher average restaurant ratings compared to others.
 Average cost for two varies greatly depending on geographical location.
 A large number of restaurants fall into mid-level rating categories.
 
-📊 Business Impact
+
+# 📊 Business Impact
 This dashboard enables stakeholders to:
 
 Track business KPIs in real-time
@@ -120,5 +129,5 @@ Enhance customer experience through data insights
 Simplify large-scale restaurant data analysis
 
 Screenshot / Demos
-Show what the dashboard looks like.
-Example: 
+Show what the dashboard looks like. ![Alt text](https://github.com/trushitvaghela1014-glitch/Zomato-restaurant-analysis-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/trushitvaghela1014-glitch/Zomato-restaurant-analysis-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
