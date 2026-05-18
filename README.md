@@ -130,4 +130,3 @@ Simplify large-scale restaurant data analysis
 
 Screenshot / Demos
 Show what the dashboard looks like. ![Alt text](https://github.com/trushitvaghela1014-glitch/Zomato-restaurant-analysis-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
-Example: ![Dashboard Preview](https://github.com/trushitvaghela1014-glitch/Zomato-restaurant-analysis-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
